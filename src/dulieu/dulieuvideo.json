@@ -1,0 +1,53 @@
+[
+    {
+        "id":1,
+        "tieude":"tên video 1",
+        "mota":"mô tả ngắn",
+        "anh":"images/img_h_1.jpg",
+        "linkyoutube":"https://www.youtube.com/watch?v=MxsrhuvMiks",
+        "tacgia":"tác giả",
+        "theloai":"Lap-trinh-c",
+        "thoigianpost":"thời gian đăng tải"
+    },
+    {
+        "id":2,
+        "tieude":"tên video 2",
+        "mota":"mô tả ngắn",
+        "anh":"images/img_h_1.jpg",
+        "linkyoutube":"https://www.youtube.com/watch?v=MxsrhuvMiks",
+        "tacgia":"tác giả",
+        "theloai":"pic",
+        "thoigianpost":"thời gian đăng tải"
+    },
+    {
+        "id":3,
+        "tieude":"tên video 3",
+        "mota":"mô tả ngắn",
+        "anh":"",
+        "linkyoutube":"https://www.youtube.com/watch?v=MxsrhuvMiks",
+        "tacgia":"tác giả",
+        "theloai":"ardruino",
+        "thoigianpost":"thời gian đăng tải"
+    },
+    {
+        "id":4,
+        "tieude":"tên video 4",
+        "mota":"mô tả ngắn",
+        "anh":"",
+        "linkyoutube":"https://www.youtube.com/watch?v=MxsrhuvMiks",
+        "tacgia":"tác giả",
+        "theloai":"web-co-ban",
+        "thoigianpost":"thời gian đăng tải"
+    },
+    {
+        "id":5,
+        "tieude":"tên video5",
+        "mota":"mô tả ngắn",
+        "anh":"",
+        "linkyoutube":"https://www.youtube.com/watch?v=MxsrhuvMiks",
+        "tacgia":"tác giả",
+        "theloai":"proteus",
+        "thoigianpost":"thời gian đăng tải"
+    }
+
+]

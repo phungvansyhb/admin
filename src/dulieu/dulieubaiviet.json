@@ -1,0 +1,95 @@
+[
+    {
+        "id":1,
+        "tieude":"tên bài viết 1",
+        "mota":"mô tả ngắn",
+        "noidung":"Noi dung ...",
+        "tacgia":"tác giả",
+        "theloai":"Lap-trinh-c",
+        "thoigianpost":"thời gian đăng tải"
+    },
+    {
+        "id":2,
+        "tieude":"tên bài viết 2",
+        "mota":"mô tả ngắn",
+        "noidung":"Noi dung ...",
+        "tacgia":"tác giả",
+        "theloai":"pic",
+        "thoigianpost":"thời gian đăng tải"
+    },
+    {
+        "id":3,
+        "tieude":"tên bài viết 3",
+        "mota":"mô tả ngắn",
+        "noidung":"Noi dung ...",
+        "tacgia":"tác giả",
+        "theloai":"ardruino",
+        "thoigianpost":"thời gian đăng tải"
+    },
+    {
+        "id":4,
+        "tieude":"tên bài viết 4",
+        "mota":"mô tả ngắn",
+        "noidung":"Noi dung ...",
+        "tacgia":"tác giả",
+        "theloai":"web-co-ban",
+        "thoigianpost":"thời gian đăng tải"
+    },
+    {
+        "id":5,
+        "tieude":"tên bài viết 5",
+        "mota":"mô tả ngắn",
+        "noidung":"Noi dung ...",
+        "tacgia":"tác giả",
+        "theloai":"proteus",
+        "thoigianpost":"thời gian đăng tải"
+    },
+   
+    {
+        "id":6,
+        "tieude":"tên bài viết 6",
+        "mota":"mô tả ngắn",
+        "noidung":"Noi dung ...",
+        "tacgia":"tác giả",
+        "theloai":"Lap-trinh-c",
+        "thoigianpost":"thời gian đăng tải"
+    },
+    {
+        "id":7,
+        "tieude":"tên bài viết 7",
+        "mota":"mô tả ngắn",
+        "noidung":"Noi dung ...",
+        "tacgia":"tác giả",
+        "theloai":"pic",
+        "thoigianpost":"thời gian đăng tải"
+    },
+    {
+        "id":8,
+        "tieude":"tên bài viết 8",
+        "mota":"mô tả ngắn",
+        "noidung":"Noi dung ...",
+        "tacgia":"tác giả",
+        "theloai":"ardruino",
+        "thoigianpost":"thời gian đăng tải"
+    },
+    {
+        "id":9,
+        "tieude":"tên bài viết 9",
+        "mota":"mô tả ngắn",
+        "noidung":"Noi dung ...",
+        "tacgia":"tác giả",
+        "theloai":"web-co-ban",
+        "thoigianpost":"thời gian đăng tải"
+    },
+    {
+        "id":10,
+        "tieude":"tên bài viết 10",
+        "mota":"mô tả ngắn",
+        "noidung":"Noi dung ...",
+        "tacgia":"tác giả",
+        "theloai":"proteus",
+        "thoigianpost":"thời gian đăng tải"
+    }
+
+
+]
